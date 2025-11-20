@@ -240,15 +240,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Engineering Life Tracker - Frontend
+Engineering Life Tracker - Frontend (Asef Kabir)
 
-## 🙏 Acknowledgments
 
-- React team for the amazing framework
-- Tailwind CSS for the utility-first CSS framework
-- Vite for the fast build tool
-- All contributors and users of this project
 
----
 
 **Note**: This is the frontend application. Make sure you have the corresponding backend server running for full functionality.
